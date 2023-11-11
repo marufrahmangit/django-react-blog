@@ -1,2 +1,1 @@
-# django-react-blog-app
-first fullstack blog app with django and reactjs
+full-stack blog app with django and reactjs
